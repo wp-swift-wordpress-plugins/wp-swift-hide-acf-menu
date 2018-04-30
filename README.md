@@ -2,7 +2,7 @@
 
  * Plugin Name: WP Swift: Hide the ACF menu
  * Plugin URI: https://github.com/wp-swift-wordpress-plugins/wp-swift-hide-acf-menu
- * Description: It may be beneficial to hide the Advanced Custom Fields menu item. This will  * prevent your client from changing / deleting fields.
+ * Description: It may be beneficial to hide the Advanced Custom Fields menu item. This will prevent your client from changing / deleting fields.
  * Version: 1
  * Author: Gary Swift
  * Author URI: https://github.com/wp-swift-wordpress-plugins
