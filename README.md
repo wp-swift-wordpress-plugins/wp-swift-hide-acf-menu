@@ -9,7 +9,7 @@
  * License: GPL2
 
 ## Features
-It may be beneficial to hide the Advanced Custom Fields menu item. This will  * prevent your client from changing / deleting fields.
+It may be beneficial to hide the Advanced Custom Fields menu item. This will prevent your client from changing / deleting fields.
 
 ## Licence
 This project is licensed under the MIT license.
